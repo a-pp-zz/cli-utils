@@ -1,0 +1,24 @@
+{
+    "name": "appzz/cli-utils",
+    "description": "CLI utils",
+    "type": "library",
+    "version": "1.0.0",
+    "keywords": [
+        "cli utils"
+    ],
+    "homepage": "https://www.bitbucket.org/a-pp-zz/cli-utils.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "CoolSwitcher",
+            "email": "ds@appzz.tech",
+            "role": "lead"
+        }
+    ],
+    "require": {
+        "php": ">5.3.3",
+    },
+    "autoload": {
+        "psr-4": {"AppZz\\CLI\\": "src/"}
+    }
+}
