@@ -6,12 +6,12 @@
     "keywords": [
         "cli utils"
     ],
-    "homepage": "https://www.bitbucket.org/a-pp-zz/cli-utils.git",
+    "homepage": "https://github.com/a-pp-zz/cli-utils",
     "license": "MIT",
     "authors": [
         {
             "name": "CoolSwitcher",
-            "email": "ds@appzz.tech",
+            "email": "ds@appzz.pw",
             "role": "lead"
         }
     ],
