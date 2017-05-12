@@ -2,7 +2,7 @@
     "name": "appzz/cli-utils",
     "description": "CLI utils",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": [
         "cli utils"
     ],
